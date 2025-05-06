@@ -7,7 +7,7 @@ Este repositório contém resumos e resenhas críticas de artigos e materiais ac
 - [Artigo sobre Microsserviços](./artigos/Artigo-Microservices.md)
 - [Resenha: Big Ball of Mud](./artigos/Big-Ball-of-Mud---Resenha.md)
 - [Resenha: Thoughtworks Technology Radar](./artigos/Thoughtworks-Technology-Radar.md)
-- [Resumo dos Capítulos 6 e 7 - Engenharia de Software Moderna](./artigos/Engenharia Software Moderna Cap 6, 7.md)
+- [Resumo dos Capítulos 6 e 7 - Engenharia de Software Moderna](./artigos/Engenharia-Software-Moderna-Cap-6-7.md)
 
 ## 📝 Estrutura dos Resumos
 
